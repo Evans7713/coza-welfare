@@ -1,0 +1,116 @@
+<resources>
+
+    <string name="requestHelp"></string>
+
+    <string-array name="items_gender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="items_onlineRequestStatus">
+        <item>Pending</item>
+        <item>Sorted</item>
+        <item>Rejected</item>
+    </string-array>
+
+    <string-array name="items_maritalStatus">
+        <item>Select Marital Status</item>
+        <item>Single</item>
+        <item>Married</item>
+        <item>Seperated</item>
+        <item>Divorced</item>
+    </string-array>
+
+    <string name="childCare"></string>
+
+    <string-array name="items_childGender">
+        <item>Select Gender</item>
+        <item>Boy</item>
+        <item>Girl</item>
+    </string-array>
+
+    <string-array name="items_childAge">
+        <item>Select Age</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+
+    <string name="signIn"></string>
+
+    <string-array name="items_campus">
+        <item>Select Campus</item>
+        <item>Guzape</item>
+        <item>Gwarinpa</item>
+        <item>Kuje</item>
+        <item>Karu</item>
+        <item>Lugbe</item>
+        <item>Gwagwalada</item>
+        <item>Mararaba</item>
+        <item>Kubwa</item>
+        <item>Wuse</item>
+    </string-array>
+
+    <string name="CoreWelfare"></string>
+    <string-array name="items_caseGender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="items_bornAgain">
+        <item>Born Again?</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="items_evangelism">
+        <item>Evangelism?</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="items_believersClass">
+        <item>Believers Class?</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="items_requestStatus">
+        <item>Request Status</item>
+        <item>Pending</item>
+        <item>Sorted</item>
+        <item>Rejected</item>
+    </string-array>
+    <string name="Evangelism"></string>
+    <string-array name="items_membership">
+        <item>Want to be a Member?</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string name="Medics"></string>
+    <string-array name="items_patientGender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="MainActivity2">Navigation Drawer</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

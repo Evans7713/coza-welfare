@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212104080171",
+    "firebase_url": "https://coza-welfare-default-rtdb.firebaseio.com",
+    "project_id": "coza-welfare",
+    "storage_bucket": "coza-welfare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212104080171:android:0974695f7e48263a7cb36e",
+        "android_client_info": {
+          "package_name": "com.des.cozawelfare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212104080171-92n4i518rpd3ik43d9kenr09vpg7f3p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDscqGYBNQmoGl6Qge-ZnB1AICPCop57io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212104080171-92n4i518rpd3ik43d9kenr09vpg7f3p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
